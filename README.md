@@ -1,2 +1,3 @@
 # CS50AI
-To be added
+## Maze Search
+<img src='.\Search\maze.png' width=300>
